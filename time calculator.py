@@ -14,9 +14,6 @@ def turn_hours_into_days(hours):
     else:
         return 0, hours
     
-    
-
-
 
 
 
